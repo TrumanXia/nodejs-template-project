@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-template-project",
+  "version": "1.0.0",
+  "description": "excel rw template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrumanXia/nodejs-template-project.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TrumanXia/nodejs-template-project/issues"
+  },
+  "homepage": "https://github.com/TrumanXia/nodejs-template-project#readme",
+  "dependencies": {
+    "excel": "^1.0.1"
+  }
+}
